@@ -41,7 +41,7 @@ if(isset($_SESSION['sumPrice'])){
                             <div class="col-12 pt-4">
                                 <a class="btn btn-success" style="background-color:#0b9876" href="index.php">Home
                                     Page</a>
-                                    <span id="timer"></span>
+                                    <!-- <span id="timer"></span> -->
                             </div>
                         </div>
                     </div>
